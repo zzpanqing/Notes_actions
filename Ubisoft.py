@@ -26,6 +26,18 @@ Recommendation
   Ubisoft (+ 7,59 %, à 9,72 euros)
   Ubisoft a prolongé sa série haussière dans de forts volumes. Après deux gains consécutifs qui lui ont permis de reprendre 8,9 %, le titre de l'éditeur de jeux vidéo a poursuivi sur sa lancée mais affiche encore un lourd repli de plus de 30 % depuis le début de l'année sur fond de perspectives décevantes.
 
+19/09/2025 10:11 Ubisoft : un exercice de transition | Boursier
+  Mais un fort aspect spéculatif...
+  Ubisoft : un exercice de transition
+  
+  Méfiance. Ubisoft continue de susciter de la méfiance au sein de la communauté financière. Après les nombreux déboires passés, l'évolution de la séquence bénéficiaire apparaît toujours incertaine... Après un exercice 2024/2025 décevant, l'éditeur de jeux vidéo est en train de revoir son modèle avec une nouvelle organisation qui devrait être annoncée d'ici la fin d'année. La société a aussi décidé de s'accorder plus de temps afin que les nouveaux jeux mis sur le marché soient irréprochables.
+  
+  Tencent. Dans cette optique, on s'attend à un millésime 2025/2026 que l'on pourrait qualifier de transition. Si l'activité est attendue stable avec un résultat opérationnel proche de l'équilibre, la génération de cash devrait être négative... Mais l'endettement d'Ubisoft va se résorber complètement à la suite de l'accord conclu avec Tencent. Une nouvelle filiale va porter les droits de 3 jeux emblématiques d'Ubisoft avec Tom Clancy's Rainbow Six, Assassin's Creed et Far Cry. Le géant chinois va acquérir 25% des parts de cette entité avec une remontée de cash vers la société cotée en bourse de Paris.
+
+  Avenir. A l'avenir, on semble se diriger vers un adossement de l'éditeur tricolore à Tencent. En plus de détenir 25% de la nouvelle filiale, le groupe asiatique possède aussi 10% du capital d'Ubisoft en direct et 49,9% de la holding familiale des Guillemot qui contrôle à son tour 15% d'Ubisoft. Cet écheveau de participations montre bien tout l'intérêt porté par Tencent au leader français du secteur. Si l'amélioration des fondamentaux d'Ubisoft demeure hésitant, le caractère spéculatif de ce dossier ne fait pas débat. Cela nous amène à recommander un achat...
+
+On achète/renforce des actions Ubisoft pour jouer le facteur spéculatif...
+
 chiffre
 AOF - EN SAVOIR PLUS
 Points clés
