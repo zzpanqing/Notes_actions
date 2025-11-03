@@ -1,7 +1,18 @@
+Recommendation 
+17/10/2025 14:03  AlphaValue vient de relever à 'accumuler' sa recommandation en visant 9,94 euros.
+
 2025 Nov 3
 Ubisoft (-10,66% à 6,92 euros)
 
 L'action de l'éditeur de jeux vidéo a clôturé au plus bas depuis fin octobre 2012. Les investisseurs devront patienter jusqu'au 13 novembre pour connaître les résultats du premier semestre.
+
+17/10/2025 14:03 
+Quatrième séance dans le rouge pour Ubisoft qui trébuche de 6% à 8,06 euros en cette fin de semaine et porte ses pertes depuis le premier janvier à près de 40%. 
+L'éditeur de jeux vidéo dévoilera ses comptes semestriels le 13 novembre prochain. 
+En pleine réorganisation, le groupe vise sur l'exercice en cours un net bookings stable sur un an, un résultat opérationnel non-IFRS proche de l'équilibre et un free cash-flow négatif. Sur le front des analystes, AlphaValue vient de relever à 'accumuler' sa recommandation en visant 9,94 euros.
+  [QP]non-IFRS : Les normes comptables "IFRS" sont les règles officielles. "Non-IFRS" signifie que l'entreprise a retiré de ce calcul certains éléments exceptionnels ou non liés à l'activité courante. Pour Ubisoft, il s'agit probablement des coûts de restructuration (fermetures de bureaux, etc.) ou d'autres charges non récurrentes. L'idée est de montrer la performance "pure" de l'activité, sans le bruit de ces événements exceptionnels.
+  [QP]Proche de l'équilibre : Cela veut dire que le résultat est proche de zéro.
+  [QP]En résumé : Une fois les coûts exceptionnels mis de côté, Ubisoft s'attend à ce que son activité principale (créer et vendre des jeux) ne génère ni perte significative, ni bénéfice significatif. L'entreprise arrive tout juste à couvrir ses frais de fonctionnement avec ses revenus.
 
 chiffre
 AOF - EN SAVOIR PLUS
