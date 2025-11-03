@@ -22,6 +22,10 @@ Recommendation
   Ubisoft (-3,54 %, à 9,634 euros)
   Au lendemain d'un beau gain de 2,55 %, le titre Ubisoft est dans le rouge. 'action du groupe qui développe, édite et distribue des jeux vidéo affiche une perte de 24,05 % depuis le début de l'année.
 
+22/09/2025 18:01 
+  Ubisoft (+ 7,59 %, à 9,72 euros)
+  Ubisoft a prolongé sa série haussière dans de forts volumes. Après deux gains consécutifs qui lui ont permis de reprendre 8,9 %, le titre de l'éditeur de jeux vidéo a poursuivi sur sa lancée mais affiche encore un lourd repli de plus de 30 % depuis le début de l'année sur fond de perspectives décevantes.
+
 chiffre
 AOF - EN SAVOIR PLUS
 Points clés
