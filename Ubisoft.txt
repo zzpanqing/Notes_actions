@@ -1,5 +1,20 @@
+resultat historique
+Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév. | Ecart de BPA % | Ecart de Revenu %
+13/11/2025      09/2025             --/0,41     --/456M                     --               --
+22/07/2025      06/2025             --/--       282M/390M                 --                 27,69%
+20/06/2025      03/2025             0,69/1,36	  1,23B/934,68M	            -49,26%            +31,6%
+13/02/2025      12/2024             -1,94/--    302M/416,36M              --                 -27,47%
+30/10/2024      09/2024             --/0,05     352,15M/376,82M           --                 -6,55%
+18/07/2024      06/2024             --/--       290M/298,38M              --                 -2,81%
+15/05/2024      03/2024             1,78/1,66   873M/872,88M              +7,23%              +0,01%	
+08/02/2024      12/2023             --/1,97     626M/626M                 --                  0%	
+26/10/2023      09/2023             --/0,5      554,85M/554,8M            --                  +0,01%	
+20/07/2023      06/2023             --/1,57     267,7M/267,7M             --                  0%	
+
+
 Recommendation 
-17/10/2025 14:03  AlphaValue vient de relever à 'accumuler' sa recommandation en visant 9,94 euros.
+  17/10/2025 14:03  AlphaValue vient de relever à 'accumuler' sa recommandation en visant 9,94 euros.
+
 
 2025 Nov 3
   Ubisoft (-10,66% à 6,92 euros)
@@ -86,7 +101,7 @@ Recommendation
 
   Ubisoft va se réorganiser en Creative Houses. Ces unités d'affaires renforceront la qualité, la focalisation, l'autonomie et la clarté des responsabilités tout en favorisant une plus grande proximité avec les joueurs. La première Creative House est la nouvelle filiale annoncée au mois de mars dernier, avec une direction dédiée récemment nommée. La finalisation de la transaction avec Tencent progresse bien et, sous réserve de l'approbation des autorités réglementaires, reste prévue d'ici la fin de l'année 2025.
 
-  
+
 chiffre
 AOF - EN SAVOIR PLUS
 Points clés
