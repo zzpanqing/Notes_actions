@@ -15,7 +15,7 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév. | E
 Recommendation 
   17/10/2025 14:03  AlphaValue vient de relever à 'accumuler' sa recommandation en visant 9,94 euros.
   10/06/2025 le broker Bernstein reste à 'performance de marché' avec un objectif ajusté de 10,10 à 9,30 euros.
-  15/05/2025 le redressement des comptes d’Ubisoft est de nouveau repoussé, TP Icap Midcap passe d'Achat à Neutre et Oddo BHF de Surperformance à Neutre.
+  15/05/2025 le redressement des comptes d’Ubisoft est de nouveau repoussé, TP Icap Midcap passe d'Achat à Neutre et Oddo BHF de Surperformance à Neutre. TP ICAP Midcap parle d'une nouvelle déception qui conduit le broker à une nouvelle révision de ses estimations et, au final, à dégrader sa recommandation à 'conserver' et à couper sa cible de 30 à 12 euros.
 
 
 2025 Nov 3
@@ -218,6 +218,8 @@ Recommendation
   Ubisoft (-17,26% à 9,66 euros)
 
   Ubisoft signe de loin la plus forte baisse de l'indice SBF 120 après avoir dévoilé des perspectives décevantes. " Plus que les performances 2024/25, ce sont surtout les perspectives 2025/26 qui devraient être sanctionnées ce jour, avec une recovery des résultats à nouveau repoussée, cette fois à l'exercice 2026/27 ", explique Invest Securities. Ubisoft vise un net bookings stable (1,846 milliard d'euros) sur l'exercice 2025-26, ainsi qu'un résultat opérationnel ajusté proche de l'équilibre et un free cash-flow négatif. Le marché visait 2,11 milliards d'euros de net bookings, un résultat opérationnel ajusté de 248 millions d'euros et un free cash-flow de 123 millions d'euros.
+
+
 chiffre
 AOF - EN SAVOIR PLUS
 Points clés
