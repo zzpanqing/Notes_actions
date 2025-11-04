@@ -15,7 +15,7 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév. | E
 Recommendation 
   17/10/2025 14:03  AlphaValue vient de relever à 'accumuler' sa recommandation en visant 9,94 euros.
   10/06/2025 le broker Bernstein reste à 'performance de marché' avec un objectif ajusté de 10,10 à 9,30 euros.
-  15/05/2025 TP Icap Midcap passe d'Achat à Neutre et Oddo BHF de Surperformance à Neutre.
+  15/05/2025 le redressement des comptes d’Ubisoft est de nouveau repoussé, TP Icap Midcap passe d'Achat à Neutre et Oddo BHF de Surperformance à Neutre.
 
 
 2025 Nov 3
@@ -183,6 +183,35 @@ Recommendation
 
   Après trois séances de suite dans le vert, Ubisoft a dévissé après avoir dévoilé des perspectives décevantes. Sur l'exercice 2025-26, Ubisoft vise un net bookings stable - l'équivalent du chiffre d'affaires - (1,846 milliard d'euros), ainsi qu'un résultat opérationnel ajusté proche de l'équilibre et un free cash-flow négatif. Les attentes du marché étaient bien plus optimistes : 2,11 milliards d'euros de net bookings, 248 millions d'euros de résultat opérationnel ajusté et 123 millions d'euros de free cash-flow. En outre, le redressement de ses comptes est de nouveau repoussé, provoquant un décrochage de son action. L'éditeur de jeux vidéo porte ses pertes à 29% depuis le 1er janvier. Cette nouvelle déception a poussé plusieurs brokers à abaisser leur recommandation : TP Icap Midcap passe d'Achat à Neutre et Oddo BHF de Surperformance à Neutre.
 
+15/05/2025 16:11  Ubisoft dévisse après avoir de nouveau décalé le redressement des comptes |AOF
+  Ubisoft dévisse après avoir de nouveau décalé le redressement des comptes
+
+  Le redressement des comptes d’Ubisoft est de nouveau repoussé, provoquant un décrochage de l’action de l’éditeur de jeux vidéo de 19,91% à 9,35 euros, portant ses pertes à 29% depuis le 1er janvier. Cette nouvelle déception a poussé plusieurs brokers à abaisser leur recommandation : TP Icap Midcap passe d’Achat à Neutre et Oddo BHF de Surperformance à Neutre.
+
+  " A la suite d'une revue de notre pipeline, nous avons décidé d'accorder un temps de développement supplémentaire à certaines de nos plus grandes productions afin de créer les meilleures conditions de succès ", a déclaré Yves Guillemot, co-fondateur et directeur général pour expliquer ces nouvelles prévisions décevantes.
+
+  La décision de décaler la sortie d'Assassin's Creed Shadows s'était révélée payante, mais s'agissant du redressement des comptes, la patience des investisseurs vis-à-vis du groupe est depuis longtemps épuisée.
+
+  Nouveau coup de froid
+
+  Sur l'exercice 2025-26, Ubisoft vise un net bookings stable - l'équivalent du chiffre d'affaires - (1,846 milliard d'euros), ainsi qu'un résultat opérationnel ajusté proche de l'équilibre et un free cash-flow négatif. Les attentes du marché étaient bien plus optimistes : 2,11 milliards d'euros de net bookings, 248 millions d'euros de résultat opérationnel ajusté et 123 millions d'euros de free cash-flow.
+
+  Ubisoft prévoit d'annoncer une nouvelle organisation d'ici la fin de l'année. Fin mars, il avait annoncé la création d'une filiale dédiée à ses principales marques Assassin's Creed, Far Cry et Tom Clancy's Rainbow Six, dont le groupe chinois et actionnaire d'Ubisoft, Tencent prendra 25% pour 1,16 milliard d'euros.
+
+  Une fois la transaction avec Tencent close, le groupe prévoit de maintenir une position de dette nette consolidée autour de zéro. Cet accord " a allégé la pression sur le bilan, ce qui a peut-être facilité la décision de différer les jeux ", explique Deutsche Bank.
+
+  Au-delà de l'exercice 2025-26, le groupe français anticipe un retour à un résultat opérationnel ajusté positif et à une génération de free cash-flow en 2026-27, ainsi que l'arrivée de contenus significatifs provenant de ses principales franchises sur les exercices 2026-27 et 2027-28. " L'objectif à long terme de renouer avec une marge opérationnelle de 20% ", précise Oddo BHF.
+
+  Perte opérationnelle annuelle
+
+  Sur l'exercice 2024/2025, clos fin mars, Ubisoft a essuyé une perte opérationnelle ajustée de 15,1 millions d'euros contre un profit de 401,4 millions d'euros sur l'exercice précédent. " Le lancement réussi d'Assassin's Creed Shadows en mars 2025 a permis de contenir les pertes opérationnelles " explique Oddo BHF. Le groupe anticipait un résultat opérationnel ajusté proche de l'équilibre et les analystes, -1 million d'euros.
+
+  La bonne surprise de cette publication est venue du free cash flow, ressorti à 127,7 millions d'euros alors qu'il était négatif à hauteur de 509,4 millions d'euros sur l'exercice 2023/2024. Il a été soutenu par une trésorerie provenant des activités opérationnelles de 169 millions d'euros, signale l'éditeur de jeux vidéo. Le flux de trésorerie libre était prévu proche de l'équilibre.
+
+  Le net bookings - l'équivalent du chiffre d'affaires - a reculé de 20,5% à 1,846 milliard d'euros contre un objectif d'environ 1,9 milliard d'euros.
+
+  Le plan initial de réduction des coûts a légèrement dépassé l'objectif de 200 millions d'euros. Au moins 100 millions d'euros d'économies supplémentaires sont attendus sur les deux prochaines années. " Il est clair que des efforts supplémentaires doivent être faits pour améliorer la rentabilité, notamment en ce qui concerne les effectifs. Ubisoft emploie 18 000 personnes, soit 2 à 3 fois plus que ses homologues américains, alors qu'il ne génère qu'une fraction de leurs revenus ", signale Deutsche Bank. Selon Oddo BHF, le premier plan d'économies s'est traduit par 3000 départs depuis septembre 2022.
+  
 chiffre
 AOF - EN SAVOIR PLUS
 Points clés
