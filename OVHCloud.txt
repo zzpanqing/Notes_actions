@@ -1,0 +1,37 @@
+recommandation historique
+05/11/2025 Euroland Corporate : En cohérence avec ces perspectives, nous fixons un objectif de cours à 10,2 € (+25%) et recommandons l’achat sur la base d’une valorisation par DCF et comparables.
+
+
+05/11/2025 07:56 OVHcloud : Une alternative | Euroland Corporate
+  OVHcloud est un acteur majeur du cloud européen, reconnu pour ses infrastructures souveraines et sa maîtrise technologique. Fondé en 1999 et coté à Paris, le groupe propose des solutions IaaS et PaaS adaptées aux besoins des entreprises et administrations. Face à la domination américaine, OVHcloud mise sur la sécurité, la localisation des données et l’efficacité énergétique de ses centres pour consolider sa place dans un marché en forte expansion.
+
+  Sur le plan financier, OVHcloud a franchi en FY 2025 le seuil du milliard d’euros de chiffre d’affaires, en hausse de +9,3 % LFL, avec un TCAM (Taux de Croissance Annuel Moyen) de +11,2 % sur 2020‑2025. Son modèle intégré génère des marges élevées, avec un EBITDA ajusté représentant 40,4 % du chiffre d’affaires. Malgré l’intensité capitalistique du secteur, le groupe a dégagé un FCF (Free Cash Flow) unlevered (non-leveré ou sans effet de levier) positif pour la première fois en 2024 (25 M€), doublé en 2025 à 58 M€, marquant une étape clé dans sa trajectoire de génération de cash.
+
+  Notre scénario prévoit un TCAM de +7,9 % sur la top line entre 2026 et 2028. À horizon 2028, notre estimation de FCF unlevered s’établit à 142 M€, traduisant un TCAM de +35,6 % sur 2025‑2028. La marge opérationnelle devrait se stabiliser autour de 15 % à plus long terme.
+
+  En cohérence avec ces perspectives, nous fixons un objectif de cours à 10,2 € (+25%) et recommandons l’achat sur la base d’une valorisation par DCF et comparables.
+
+28/10/2025 08:00 Entretien avec Stéphanie Besnier, Directrice financière d'OVH Cloud | Boursier
+  La feuille de route d'OVH Cloud est claire !
+  Entretien avec Stéphanie Besnier, Directrice financière d'OVH Cloud
+  Boursier.com :
+    Le titre a chuté de 20% mardi dernier, après l'annonce des résultats annuels et celle du retour d'Octave Klaba. Comment comptez-vous regagner la confiance des investisseurs ?
+  Stéphanie Besnier : 
+    La réunification des fonctions de Président du Conseil d'Administration et de Directeur Général nous permet d'aligner plus étroitement la vision, la stratégie et l'exécution au sein du Groupe. Cette cohérence renforce notre capacité à anticiper et à conserver une longueur d'avance sur un marché en mutation rapide. Nous nous sommes concentrés sur la mise en place de bases solides et venons ainsi de franchir le cap du **milliard d'euros de chiffre d'affaires** tout en ayant significativement amélioré nos indicateurs de rentabilité et de génération de trésorerie. Notre feuille de route est claire : renforcer notre position auprès des Digital Starters, à savoir les clients par un canal digital et qui réalise moins de 25 000 euros de revenu annuel récurrent, poursuivre notre développement auprès des autres segments de Go to Market, accélérer sur l'intelligence artificielle au bénéfice de nos clients et étendre notre présence à l'international.
+  Boursier.com : 
+    Concernant le futur plan " Step Ahead " 2026-2030, sur quels aspects stratégiques allez-vous mettre les priorités ?
+  S.B. : 
+    Comme annoncé à l'occasion de la publication de nos résultats annuels 2025, notre nouveau plan stratégique sera présenté au cours des premiers mois de 2026. Ce plan sera axé sur la relance de la croissance auprès des Digital Starters, l'accélération de la génération de free cash-flow et l'amélioration de la rentabilité des capitaux investis.
+  Boursier.com : 
+    Votre guidance 2026 prévoit une croissance organique de seulement 5-7%, soit un ralentissement par rapport aux 9,3% de 2025. Quels sont les facteurs expliquant cette décélération ? Et comment cette guidance s'articule-t-elle avec le futur plan stratégique 2026-2030 'Step Ahead' qu'annonce Octave Klaba ?"
+  S.B.
+    Au cours des derniers exercices, le Groupe s'est surtout focalisé sur le développement commercial des clients Digital Scalers, à savoir les clients adressés par un canal digital et qui réalisent plus de 25 000 euros de revenu annuel récurrent, et Corporates, adressés par une stratégie de vente directe, par appels d'offre ou par l'équipe commerciale d'OVHcloud, ou indirecte, par des partenaires. Cela nous a permis de générer des taux de croissance annuels moyens à deux chiffres sur ces deux segments entre 2023 et 2025, plus précisément +20,8% pour les clients Digital Scalers et +12,1% pour les clients Corporates. Alors qu'historiquement nous surperformions ce marché, nous n'avons pas assez mis l'accent récemment sur les clients Digital Starters, qui représentent 50% du chiffre d'affaires du Groupe. De nombreux clients Digital Scalers ont débuté leur aventure avec OVHcloud en tant que Digital Starters et nous souhaitons que cette tendance se poursuive. L'un des objectifs du plan stratégique qui sera annoncé début 2026 est ainsi de relancer la croissance sur ce Go-to-Market. Nous avons une vision précise de comment y parvenir et nous nous concentrons sur l'exécution de cette stratégie.
+  Boursier.com : 
+    Octave Klaba évoque la 'génération de valeur pour les actionnaires' dans un contexte géopolitique tendu. Quels sont vos leviers financiers pour accélérer la création de valeur : amélioration des marges, accélération de la croissance, optimisation du capital employé ?
+  S.B.
+    Nous comptons " normaliser " la consommation de trésorerie du Groupe, à savoir revenir à une rentabilité élevée et une trésorerie positive après 10 ans de trésorerie négative. Cela passera par une accélération de la croissance sur le Go-to-market Digital Starters, l'amélioration de la génération de flux de trésorerie avec l'ambition d'être free cash-flow positif en 2026 et une optimisation du capital employé.
+  Boursier.com : 
+    Votre dette nette a augmenté de 436 millions d'euros pour atteindre 1,103 milliard d'euros, avec un levier d'endettement de 2,7x. Dans le contexte de taux d'intérêt élevés, comment envisagez-vous l'évolution de votre structure financière ? Avez-vous des projets de refinancement ou de désendettement ?
+  S.B.
+    Nous n'avons aucune nécessité de refinancement à ce jour : notre plan de développement est entièrement financé, et par ailleurs nous disposons de 242mEUR de liquidités disponibles. Après une décennie d'investissements soutenus, notamment en Europe où plusieurs datacenters ont été ouverts depuis 2021, l'heure est à la valorisation de ces actifs. Notre trajectoire de croissance sera soutenue par l'effet de levier de ces investissements, en améliorant leur taux d'utilisation et en améliorant leur conception et leur densité, et la poursuite ciblée de nos investissements pour accompagner le développement du Groupe.
+
