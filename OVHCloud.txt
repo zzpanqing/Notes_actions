@@ -35,3 +35,90 @@ recommandation historique
   S.B.
     Nous n'avons aucune nécessité de refinancement à ce jour : notre plan de développement est entièrement financé, et par ailleurs nous disposons de 242mEUR de liquidités disponibles. Après une décennie d'investissements soutenus, notamment en Europe où plusieurs datacenters ont été ouverts depuis 2021, l'heure est à la valorisation de ces actifs. Notre trajectoire de croissance sera soutenue par l'effet de levier de ces investissements, en améliorant leur taux d'utilisation et en améliorant leur conception et leur densité, et la poursuite ciblée de nos investissements pour accompagner le développement du Groupe.
 
+21/10/2025 09:33 Le Flash Small & Mid du jour par Eric Lewin ! Bourse Direct
+  Pas exceptionnel pour OVH
+  Le spécialiste du cloud a vu sa croissance décélérer sur le quatrième trimestre de son exercice 2024-25. Elle atteint seulement 7,5% à 276,7 millions d’euros alors que sur l’ensemble de l’année la hausse est de 9,3% à 1,1 milliard d’euros.
+
+  Certes, le groupe a réussi à gagner deux points d’Ebitda avec une marge d’Ebitda de 40,4% mais dans le même temps le résultat net est tout juste positif à hauteur de 0,4 million d’euros.
+
+  Il faut dire que la société est très **endettée avec une dette nette de 1,1 milliard d’euros**, ce qui engendre des frais financiers plutôt conséquents.
+
+  La croissance attendue sur l’exercice 2025-26, entre 5% et 7%, est clairement réceptive.
+
+  L’action en hausse de plus de 28% depuis le début de l’année est ultra chère aux cours actuels avec notamment un **PER supérieur à 30 et une Ve/roc supérieure à 30 également.**
+
+  → **L’avis d’Eric : ventes**
+21/10/2025 07:33 OVHcloud présente une Marge d'EBITDA ajusté supérieure à 40%  |  Boursier 
+  
+  Atteinte de l'ensemble des objectifs FY2025
+  OVHcloud présente une Marge d'EBITDA ajusté supérieure à 40%
+  Le Conseil d'administration d'OVHcloud, réuni le 20 octobre 2025, a examiné et arrêté les états financiers consolidés du Groupe pour la période **close le 31 août 2025**. En 2025 le **chiffre d'affaires atteint 1.084,6 millions d'euros**, en hausse de 9,3% à données comparables. OVHcloud a atteint plusieurs étapes clés en 2025 avec un chiffre d'affaires réalisé auprès des Corporates qui dépasse les 200 millions d'euros, un chiffre d'affaires sur le Cloud Public (IaaS & PaaS) supérieur à 100 millions d'euros et enfin un chiffre d'affaires aux Etats Unis qui franchit la barre des 100 millions d'euros également.
+
+  OVHcloud a désormais près de **1.200 clients réalisant chacun plus de 100.000 euros d'Annual Recurring Revenue (ARR)**. En outre, OVHcloud est le leader du marché "SecNumCloud" avec 24 millions d'ARR en hausse de 63% sur un an. Enfin, cette année, les clients existants ont poursuivi leur croissance, comme l'illustre le taux de rétention net du chiffre d'affaires de 105% (à données comparables).
+
+  **Chiffre d'affaires par zones géographiques**
+
+  **La France représente 48 % du total du Groupe**, en croissance de +7,3% à données comparables. Les activités de **Cloud privé et de Cloud public en France ont progressé respectivement de +6,5% et +17,1% à données comparables.**
+
+  **Les autres pays européens représentent 29% du total du Groupe et sont en croissance de +8,8% à données comparables. La croissance est portée par la dynamique en Europe centrale et en Europe du Nord.**
+
+  Le Reste du monde représente 23% du total du Groupe et est en croissance de +14,3% à données comparables. La région a bénéficié de la très bonne dynamique aux Etats-Unis qui connait un CAGR entre FY 2023 et FY 2025 de plus de 20%.
+
+  Forte amélioration de la rentabilité
+
+  Au cours de FY2025, le Groupe a maintenu sa discipline opérationnelle, notamment par la maîtrise des dépenses générales et administratives. L'EBITDA ajusté a atteint 437,8 millions d'euros, soit une marge de 40,4 %, en hausse significative de 2,0 points comparé à FY2024. Cette progression significative de la marge d'EBITDA ajusté s'explique par une hausse limitée des coûts directs, ainsi qu'un fort levier opérationnel nourri par un effet volume. Le résultat opérationnel (EBIT) a atteint 69,4 millions d'euros, soit une marge de 6,4 %, en très forte hausse de 3,8 points comparé à FY2024.
+
+  Le résultat opérationnel intègre des dotations aux amortissements et dépréciations de (354,4) millions d'euros, en diminution en pourcentage de chiffre d'affaires comparé à FY2024. **Le résultat net est positif sur FY2025 et atteint 0,4 million d'euros.** Il intègre notamment un résultat financier de (65,1) millions d'euros, en augmentation du fait des frais de mise en place de la nouvelle dette et de l'augmentation des taux d'intérêts et de la dette sur la période.
+
+  Après l'intégration d'une charge d'**impôt de 3,9 millions d'euros**, OVHcloud a enregistré un résultat net de 0,4 million d'euros en 2025, en amélioration comparé à la perte nette de (10,3) millions d'euros en FY2024.
+
+  Amélioration significative de la génération de **trésoreriUnlevered Free Cash-Flow de 57,6 millions d'euros**
+
+  En lien avec la forte progression de la rentabilité du Groupe, la capacité d'autofinancement s'est améliorée pour atteindre 421,9 millions d'euros sur FY2025.
+
+  La variation du besoin en fonds de roulement [ l'argent dont une entreprise dispose pour financer ses opérations quotidiennes (payer les salaires, les fournisseurs, les factures) après avoir pris en compte ses dettes à court terme.] est légèrement positive et s'élève à 1 million d'euros en FY2025.
+  Les capex [ l'argent qu'une entreprise dépense pour acquérir, moderniser ou maintenir ses actifs physiques à long terme (des biens qui seront utilisés pendant plus d'un an)] hors acquisitions s'élèvent à 361,4 millions d'euros en 2025 contre 343,1 millions d'euros en 2024. Au cours de FY2025, OVHcloud a poursuivi l'amélioration de l'intensité capitalistique de ses capex d'infrastructure et a significativement optimisé la gestion des stocks de composants, en augmentant la disponibilité de serveurs assemblés. Dans une logique d'atteinte d'un Levered Free Cash-Flow positif dès FY2026, OVHcloud poursuit ses efforts d'optimisation de gestion de stocks.
+
+  Les capex représentent 33,3% du chiffre d'affaires de 2025 et intègrent :
+
+    - des capex récurrents de 128,9 millions d'euros, représentant 11,9% du chiffre d'affaires en 2025, comparé à 12,7% en 2024;
+    - des capex de croissance de 232,5 millions d'euros, représentant 21,4% du chiffre d'affaires en 2025, comparé à 21,8% en 2024.
+
+  Ces différents éléments conduisent à une génération d'Unlevered Free Cash-Flow de 57,6 millions d'euros en 2025, en hausse de 32,5 millions d'euros comparé à FY2024.
+
+  Forte progression de la rentabilité des capitaux employés
+
+  L'amélioration de la rentabilité et de l'intensité capitalistique ont entraîné une augmentation significative du retour sur les capitaux employés (ROCE)[Rentabilité des Capitaux Employés]. Comme l'illustre le graphique ci-dessous, le ROCE a progressé de 2,9 points entre FY2021 et FY2025. En optimisant encore davantage sa productivité et son intensité capitalistique, OVHcloud continuera de faire progresser son ROCE dans les exercices à venir
+
+  L'endettement financier net consolidé (hors dettes locatives) au 31 août 2025 est de 1.103 millions d'euros contre 667 millions d'euros au 31 août 2024.
+
+  A fin août 2025, l'intégralité de la dette du Groupe est couverte et affiche un taux d'intérêt moyen de 4,3%, toutes marges et commissions comprises. Le levier d'endettement atteint 2,7x au 31 août 2025, en ligne avec la politique d'endettement du Groupe.
+
+  La solide structure financière du Groupe permet à OVHcloud de mettre en oeuvre son plan de développement. Les besoins sont en effet largement couverts jusqu'en 2030, avec 242 millions d'euros de liquidités disponibles et une trajectoire de génération de Levered Free Cash-Flow dès FY2026.
+
+  Perspectives - Objectifs FY2026
+
+  Pour l'exercice FY2026, OVHcloud a les objectifs suivants :
+    - Croissance organique du chiffre d'affaires comprise entre 5 et 7% ;
+    - Marge d'EBITDA ajusté supérieure à FY2025 ;
+    - Capex compris entre 30 et 32% du chiffre d'affaires ;
+    - Levered Free Cash-Flow positif.
+
+21/10/2025 07:02 OVHcloud fait évoluer sa gouvernance avec la réunification des fonctions de Président du Conseil d'Administration et de Directeur Général |  Boursier |  
+
+  Octave Klaba est nommé Président-Directeur Général
+  OVHcloud fait évoluer sa gouvernance avec la réunification des fonctions de Président du Conseil d'Administration et de Directeur GénéralCredits OVH
+  Le Conseil d'Administration d'OVHcloud, réuni le 20 octobre, a décidé d'adapter sa gouvernance. Il met fin à la dissociation des fonctions de Président et de Directeur Général, ce qui entraîne la fin du mandat de Benjamin Revcolevschi. Le Conseil d'Administration remercie Benjamin Revcolevschi, pour son engagement et les actions menées durant cette année.
+
+  Sur proposition du Comité des nominations, le Conseil d'Administration a voté à l'unanimité la nomination d'Octave Klaba au poste de Président-Directeur Général d'OVH Groupe à compter du 20 octobre 2025.
+
+  Aligner vision, stratégie et exécution
+
+  En réunissant les fonctions de Président du Conseil d'Administration et de Directeur Général, le Groupe renforce le lien entre vision, stratégie et exécution. Cette gouvernance unifiée, à la fois visionnaire et réactive, renforce la capacité d'OVHcloud à anticiper et à s'adapter aux évolutions du marché.
+
+  Octave Klaba, Président-Directeur Général a déclaré : "Nous démarrons le nouveau Plan Stratégique de 5 ans, durant lequel nos clients pourront profiter des dix dernières années d'investissements massifs déployés dans les datacenters et le Software. Je présenterai dans les tous prochains mois notre plan stratégique 2026-2030 "Step Ahead" pour guider les équipes et accompagner nos clients, tout en générant de la valeur pour nos actionnaires".
+
+  Faire grandir le cloud européen, un engagement incarné
+
+  Vingt-six ans après sa création, il engage une nouvelle phase de développement du Groupe, destinée à répondre aux besoins de tous les profils de clients, en France comme à l'international : des digital starters1 qui débutent dans le cloud, aux digital scalers2 en croissance, jusqu'aux corporate3 en quête d'un partenaire de confiance.
+  Dans une économie désormais entièrement numérique, le cloud est devenu une infrastructure stratégique indispensable à tous, quelle que soit la taille ou le secteur. Octave Klaba fait d'OVHcloud un moteur d'innovation et de technologie durable, au service du cloud et de l'intelligence artificielle, en s'appuyant sur un écosystème de clients et de partenaires partageant une même vision d'une technologie ouverte, réversible et transparente, fondée sur des valeurs européennes fortes.
