@@ -1,3 +1,27 @@
+Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ecart de BPA % | Ecart de Revenu % 
+08/01/2026      11/2025             --/--         --/--                     --                  --
+21/10/2025      08/2025             --/--         548,6M/--                 --                  --
+24/06/2025      05/2025             --/--         271,9M/--                 --                  --
+17/04/2025      02/2025             0,02/--       272,51M/--                --                  --
+08/01/2025      11/2024             --/--         264M/--                   --                  --
+24/10/2024      08/2024             --/--         256,2M/256,2M             --                  0%
+27/06/2024      05/2024             --/--         251M/251M                 --                  0%
+22/04/2024      02/2024             --/--         246,3M/246M               --                 +0,12%
+11/01/2024      11/2023             --/--         238,57M/238,57M           --                  0%
+14/11/2023      08/2023             --/--         230,1M/230,1M             --                  0%
+29/06/2023      05/2023            --/--          228M/235,78M              --                 -3,3%
+19/04/2023      02/2023            -0,14/--       223,3M/231,58M            --                 -3,58%
+11/01/2023      11/2022            --/--          216M/226,61M              --                 -4,68%
+26/10/2022      08/2022            -0,01/--       204M/220,6M               --                 -7,52%
+30/06/2022      05/2022            --/--          202,4M/202,4M             --                   0%
+14/04/2022      02/2022            -0,14/--       194,8M/194,8M             --                   0%
+12/01/2022      11/2021            --/--          187,2M/187,2M             --                   0%
+17/12/2021      08/2021             0,07/--       168,2M/--                 --                   --
+05/10/2021      05/2021            -0,24/--       495,1M/--                 --                   --
+14/04/2022      02/2021            -0,04/--       334,3M/--                 --                   --
+05/10/2021      08/2020            -0,04/--       160,2M/--                 --                   --
+05/10/2021      05/2020            -0,02/--       472M/--                   --                   --
+
 recommandation historique
 05/11/2025 Euroland Corporate : En cohérence avec ces perspectives, nous fixons un objectif de cours à 10,2 € (+25%) et recommandons l’achat sur la base d’une valorisation par DCF et comparables.
 
@@ -104,7 +128,7 @@ recommandation historique
     - Capex compris entre 30 et 32% du chiffre d'affaires ;
     - Levered Free Cash-Flow positif.
 
-21/10/2025 07:02 OVHcloud fait évoluer sa gouvernance avec la réunification des fonctions de Président du Conseil d'Administration et de Directeur Général |  Boursier |  
+21/10/2025 07:02 OVHcloud fait évoluer sa gouvernance avec la réunification des fonctions de Président du Conseil d'Administration et de Directeur Général |  Boursier 
 
   Octave Klaba est nommé Président-Directeur Général
   OVHcloud fait évoluer sa gouvernance avec la réunification des fonctions de Président du Conseil d'Administration et de Directeur GénéralCredits OVH
