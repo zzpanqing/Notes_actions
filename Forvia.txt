@@ -19,6 +19,9 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév. | E
 26/07/2021       06/2021            1,31/1,76	3,78B/3,84B                  -25,57%            -1,56%	
 19/04/2021       03/2021            --/--     4,01B/3,92B                      --              +2,3%	
 
+recommandation historique
+  28/10/2025 11:33 Jefferies a confirmé sa recommandation à l’Achat sur le titre Forvia, tout en relevant légèrement son objectif de cours de 13,35 à 14,20 euros.
+
 
 
 03/11/2025 11:39 Mercedes-Benz profite d'une bonne nouvelle sur les puces chinoises et de l'avis de DZ Bank |  AOF   
@@ -27,3 +30,60 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév. | E
   Mercedes-Benz (+3,25%, à 58,04 euros) débute bien la semaine après avoir enchaîné deux replis consécutifs. Le titre est soutenu, comme l’ensemble du secteur automobile, par l’assouplissement des restrictions d’exportations des puces de Nexperia, et par l’avis positif de DZ Bank. La société néerlandaise Nexperia, filiale du Chinois Wingtech Technology, a été autorisée par le gouvernement de Pékin à reprendre certaines expéditions vers l’Europe de ses puces dont sont dépendants de nombreux constructeurs automobiles du Vieux-Continent.
 
   Le 16 octobre dernier, l'Association des constructeurs européens d'automobiles (ACEA) s'était inquiétée "face au risque de perturbations majeures de la production automobile européenne si l'interruption de l'approvisionnement en puces par Nexperia n'est pas résolue immédiatement". L'ACEA prévenait que "sans ces puces, les équipementiers européens ne peuvent plus fabriquer les pièces et composants nécessaires à la production automobile, ce qui menace directement l'arrêt des chaînes d'assemblage".
+
+28/10/2025 11:33 Forvia : Jefferies relève son objectif de cours  |  AOF 
+  Forvia : Jefferies relève son objectif de cours
+
+  Jefferies a confirmé sa recommandation à l’Achat sur le titre Forvia, tout en relevant légèrement son objectif de cours de 13,35 à 14,20 euros. Les analystes estiment que si les ventes du troisième trimestre ont été un peu décevantes, les segments à plus forte marge poursuivent leur croissance, ce qui renforce la capacité de l’équipementier automobile à maintenir ses objectifs malgré un quatrième trimestre potentiellement difficile.
+
+  Jefferies estime également que la valorisation de Forvia est attractive et que le recentrage sur les domaines clés de croissance offre un potentiel de hausse et plusieurs catalyseurs devraient apporter un certain soutien au titre.
+
+
+EN SAVOIR PLUS
+  Points-clés
+  -  Septième fournisseur mondial de technologies automobiles, 1er mondial pour les sièges et les systèmes d’équipement, né en 2022 ;
+  - Ventes de 27 Mds€, réparties en 6 activités : les sièges pour 32 %, les systèmes d’intérieur pour 19 %, les systèmes d’échappement pour 15 %, l’électronique (capteurs, conduite automatisée, gestion de l’énergie, multimédia…) pour 16 % et l’éclairage pour 14 %...
+
+  Chiffre d’affaires réalisé à 47 % en Europe-Moyen Orient-Afrique, à 27 % en Asie-Océanie (21 % en Chine) et à 26 % dans les Amérique ;
+
+  - Modèle d’affaires de positionnement sur les marchés porteurs : complémentarité du portefeuille d’activités dans l’électronique, consolidation de la place de n° 1 mondial via la durabilité dans les intérieurs et les systèmes de sièges, innovation et standardisation dans l’éclairage, accélération de l’électrification dans la mobilité verte ;
+
+  - Capital ouvert avec 5 actionnaires stratégiques : les actionnaires familiaux Hueck/Roepke pour 9 %, Exor (5, %), Peugeot 1810 (3 %), le groupe Caisse des Dépôts (4 %) et les salariés (2 %), Michel de Rosen présidant le conseil de 13 administrateurs, Martin Fischer étant directeur général depuis le 1er mars.
+
+  Enjeux
+
+    - Agilité du modèle d’affaires mené par un comité exécutif profondément remanié :  
+    - priorité au désendettement, via 1 Md€ de cessions (Faurecia Automotive Composites), le « manage by cash » et le remaniement de la dette,
+    - en réaction au relèvement des tarifs douaniers américains, extension du système de « lean      manufacturing » à toutes les fonctions de l’entreprise et nouveau programme Simplify de réductions des coûts, soit 11O M€ d’économies d’ici fin 2028 pour un coôt total de 150 M€  ;
+
+    - en Europe, déploiement du plan EU-FORWARD de renforcement de la compétitivité (près de 5 500 suppressions en 2025, soit un coût de restructurations de 247 M€) et du plan de synergies FORVIA HELLA avec 500 M€ d’économies attendues pour 2025,
+
+
+    - en Asie, lancement de « West to east » pour tirer parti de la reprise attendue en Chine (1/3 du marché mondial en volume) et porter à 38 %, vs 27 %, la part des revenus en Asie dès 2028,
+
+    - écosystème de partenariats industriels -neutralité carbone (Schneider Electric, Engie, Artelia, KPMG), intelligence artificielle (Accenture), cloud (Microsoft), analyse des données (Palantir), cybersécurité (GuardKnox ou Smart Eye), logiciels graphiques (Rightware) - renforcé depuis 2024, notamment avec Chery en Chine pour les cockpits intelligents (1 Md€      de ventes visées en 2029) et avec le chinois BYD en Hongrie ;
+
+    - innovation regroupée dans 80 centres de R&D (3,8 % des revenus), riche d’un portefeuille de près de 13 000 brevets avec 900 programmes en développement notamment en IA et logiciels en réorganisation depuis le début d’année :
+    - magasin d’applications Appning pour les 23 grandes marques automobiles mondiales,
+    - entité « Ignite » dédiée exclusivement aux logiciels ;
+
+    - Stratégie environnementale « Blue Effect» visant le net zéro en 2045 avec 2 étapes intermédiaires :
+    - 2O25 : réduction d’au moins 80 %, vs 2019, des émissions de CO2 des scopes 1 et 2,
+    - 2030 : réduction d’au moins 45 % des émissions de CO2 du scope 3,
+    - Division matériaux durables Materi’act visant 2 M€ de revenus en 2025 et soutenue par des partenariats : Veolia (30 % de modules intérieurs à plastiques recyclés), GravitHy (production d'acier décarboné à Fos-sur-Mer), SSAB (structures de sièges)…,
+    - Solutions hydrogène proposées directement (réservoirs pour le transport et le stockage d’hydrogène) et gigafactory de piles à combustible, avec pour objectif 3,5 Mds€ de revenus ;
+
+    - Émissions obligataires « vertes » ;
+    - Visibilité de l’activité avec des prises de commandes de + 20 Mds€ ;
+    - Dette financière ramenée à 6,4 Mds€ à fin juin, donnant un effet de levier de 1,97, face à 4,4 Mds€ de disponibilités.
+
+  Défis
+    - Marché mondial plombé par les réglementations environnementales en Europe et la montée de la concurrence chinoise dans les véhicules électriques ;
+    - Sensibilité des ventes aux six premiers clients : Volkswagen (19 %), Stellantis (10,5 %), Ford (9 %), Mercedes-Benz (7 %), GM (6 %) et BMW (5,5 %) ;
+    - Spéculations sur une cession de l’activité « Interiors », au 5ème rang mondial par le chiffre d’affaires mais la moins rentable des divisions, dans le cadre de la stratégie de désendettement ;
+    - Après l’arrêt par Stellantis de son programme de pile à hydrogène développé au sein de Symbio, société commune avec Forvia et Michelin, dépréciation de 136 M€ sur la quote-part de Forvia ;
+
+    - Après une quasi-stabilité des ventes, de 13,1 %, une montée de 3,1 % du bénéfice opérationnel et une perte nette de 288,7 M€ à fin juin, objectifs 2025 inchangés : revenus de 26,3 à 27,5 Mds€, marge opérationnelle de 5,2 à 6 %, autofinancement libre stable autour de 500 M€ et levier de dette ramené à 1,8 ;
+    - Absence de dividende.
+
+
