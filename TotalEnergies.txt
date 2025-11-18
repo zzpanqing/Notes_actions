@@ -1,48 +1,72 @@
-Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ecart de BPA % | Ecart de Revenu %
-11/02/2026        12/2025           --/1,69           --/34,38B             --                --
-30/10/2025        09/2025           1,77/1,77     43,84B/47,34B                 0%           -7,39%
-24/07/2025        06/2025           1,17/1,68     44,68B/43,68B             -30,36%          +2,29%
-30/04/2025        03/2025           1,83/2,02     47,9B/49,86B               -9,41%          -3,93%
-05/02/2025        12/2024           1,9/1,82      47,12B/43,89B               +4,4%          +7,36%
-31/10/2024        09/2024           1,74/1,82     47,43B/44,58B               -4,4%          +6,39%
-25/07/2024        06/2024           1,98/2,13     49,18B/60,39B               -7,04%        -18,56%
-26/04/2024        03/2024           2,14/2,14     51,88B/51,88B                 0%              0%  
-07/02/2024        12/2023           2,16/2,16     54,77B/54,77B                 0%              0%  
-26/10/2023        09/2023           2,63/2,63     54,41B/54,41B                 0%              0%  
-27/07/2023        06/2023           1,99/1,99     51,46B/51,46B                 0%              0%  
-27/04/2023        03/2023           2,61/2,61     58,23B/58,23B                 0%              0%  
-08/02/2023        12/2022           2,97/2,97     63,95B/63,95B                 0%              0%  
-27/10/2022        09/2022           3,83/3,83     64,96B/64,96B                 0%              0%  
-28/07/2022        06/2022           3,75/3,75     70,45B/70,45B                 0%              0%  
-28/04/2022        03/2022           3,4/3,4       63,95B/63,95B                 0%              0%
-10/02/2022        12/2021           2,55/2,55     55,3B/55,3B                   0%              0%
-28/10/2021        09/2021           1,76/1,76     49,07B/49,07B                 0%              0%
-29/07/2021        06/2021           1,27/1,27     41,63B/41,63B                 0%              0%
-29/04/2021        03/2021           1,1/1,1       38,63B/38,63B                 0%              0%
-09/02/2021        12/2020           0,46/0,46     32,35B/32,35B                 0%              0%
-30/10/2020        09/2020           0,29/0,29     27,18B/27,18B                 0%              0%
-30/07/2020        06/2020           0,02/0,02     21,58B/21,58B                 0%              0%
-05/05/2020        03/2020           0,66/0,66     38,58B/38,58B                 0%              0%
-06/02/2020        12/2019           1,19/1,19     43,39B/43,39B                 0%              0%
-30/10/2019        09/2019           1,13/1,13     42,54B/42,54B                 0%              0%
-25/07/2019        06/2019           1,05/1,05     45,2B/45,2B                   0%              0%
-26/04/2019        03/2019           1,02/1,12     45,12B/51,05B              -8,93%        -11,61%
-07/02/2019        12/2018           1,17/1,15     46,31B/59,06B              +1,74%        -21,59%
-26/10/2018        09/2018           1,47/1,4      48,4B/57,36B                  +5%         -15,62%
-26/07/2018        06/2018           1,31/1,35     46,1B/57B                  -2,96%         -19,13%
-26/04/2018        03/2018           1,09/1,12     43,29B/47,38B              -2,68%          -8,64%
-08/02/2018        12/2017           1,1/1,1       41,44B/44,05B              0%	             -5,93%
-27/10/2017        09/2017           1,04/1,06     37,08B/36,55B              -1,89%          +1,45%
-27/07/2017        06/2017           0,9/0,91      34,48B/35,31B              -1,1%           -2,36%
-26/04/2017        03/2017           0,93/1        36,09B/37,89B              -7%             -4,74%
-09/02/2017        12/2016           0,88/0,92     36,87B/33,42B              -4,35%         +10,31%
-28/10/2016        09/2016           0,79/0,79     31,83B/31,3B	0%	+1,71%	
-28/07/2016        06/2016           0,84/0,72     31,71B/30B	+16,67%	+5,69%	
-27/04/2016        03/2016           0,85/0,47     27,52B/27,48B	+80,85%	+0,14%	
-Tous les chiffres sont en USD
+resultat
+  Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ecart de BPA % | Ecart de Revenu %
+  11/02/2026        12/2025           --/1,69           --/34,38B             --                --
+  30/10/2025        09/2025           1,77/1,77     43,84B/47,34B                 0%           -7,39%
+  24/07/2025        06/2025           1,17/1,68     44,68B/43,68B             -30,36%          +2,29%
+  30/04/2025        03/2025           1,83/2,02     47,9B/49,86B               -9,41%          -3,93%
+  05/02/2025        12/2024           1,9/1,82      47,12B/43,89B               +4,4%          +7,36%
+  31/10/2024        09/2024           1,74/1,82     47,43B/44,58B               -4,4%          +6,39%
+  25/07/2024        06/2024           1,98/2,13     49,18B/60,39B               -7,04%        -18,56%
+  26/04/2024        03/2024           2,14/2,14     51,88B/51,88B                 0%              0%  
+  07/02/2024        12/2023           2,16/2,16     54,77B/54,77B                 0%              0%  
+  26/10/2023        09/2023           2,63/2,63     54,41B/54,41B                 0%              0%  
+  27/07/2023        06/2023           1,99/1,99     51,46B/51,46B                 0%              0%  
+  27/04/2023        03/2023           2,61/2,61     58,23B/58,23B                 0%              0%  
+  08/02/2023        12/2022           2,97/2,97     63,95B/63,95B                 0%              0%  
+  27/10/2022        09/2022           3,83/3,83     64,96B/64,96B                 0%              0%  
+  28/07/2022        06/2022           3,75/3,75     70,45B/70,45B                 0%              0%  
+  28/04/2022        03/2022           3,4/3,4       63,95B/63,95B                 0%              0%
+  10/02/2022        12/2021           2,55/2,55     55,3B/55,3B                   0%              0%
+  28/10/2021        09/2021           1,76/1,76     49,07B/49,07B                 0%              0%
+  29/07/2021        06/2021           1,27/1,27     41,63B/41,63B                 0%              0%
+  29/04/2021        03/2021           1,1/1,1       38,63B/38,63B                 0%              0%
+  09/02/2021        12/2020           0,46/0,46     32,35B/32,35B                 0%              0%
+  30/10/2020        09/2020           0,29/0,29     27,18B/27,18B                 0%              0%
+  30/07/2020        06/2020           0,02/0,02     21,58B/21,58B                 0%              0%
+  05/05/2020        03/2020           0,66/0,66     38,58B/38,58B                 0%              0%
+  06/02/2020        12/2019           1,19/1,19     43,39B/43,39B                 0%              0%
+  30/10/2019        09/2019           1,13/1,13     42,54B/42,54B                 0%              0%
+  25/07/2019        06/2019           1,05/1,05     45,2B/45,2B                   0%              0%
+  26/04/2019        03/2019           1,02/1,12     45,12B/51,05B              -8,93%        -11,61%
+  07/02/2019        12/2018           1,17/1,15     46,31B/59,06B              +1,74%        -21,59%
+  26/10/2018        09/2018           1,47/1,4      48,4B/57,36B                  +5%         -15,62%
+  26/07/2018        06/2018           1,31/1,35     46,1B/57B                  -2,96%         -19,13%
+  26/04/2018        03/2018           1,09/1,12     43,29B/47,38B              -2,68%          -8,64%
+  08/02/2018        12/2017           1,1/1,1       41,44B/44,05B              0%	             -5,93%
+  27/10/2017        09/2017           1,04/1,06     37,08B/36,55B              -1,89%          +1,45%
+  27/07/2017        06/2017           0,9/0,91      34,48B/35,31B              -1,1%           -2,36%
+  26/04/2017        03/2017           0,93/1        36,09B/37,89B              -7%             -4,74%
+  09/02/2017        12/2016           0,88/0,92     36,87B/33,42B              -4,35%         +10,31%
+  28/10/2016        09/2016           0,79/0,79     31,83B/31,3B	0%	+1,71%	
+  28/07/2016        06/2016           0,84/0,72     31,71B/30B	+16,67%	+5,69%	
+  27/04/2016        03/2016           0,85/0,47     27,52B/27,48B	+80,85%	+0,14%	
+  Tous les chiffres sont en USD
 
 Recommendation:
   12/11/2025 09:52 Morgan Stanley 'surpondère' le dossier avec un objectif de cours ajusté à 62 euros.
+
+
+18/11/2025 09:32 TotalEnergies : va faire appel de la décision du gendarme de la concurrence sur l'approvisionnement en produits pétroliers de la Corse |  Boursier 
+  En Corse, TotalEnergies approvisionne les habitants en carburants depuis 60 ans avec actuellement un réseau de 47 stations-services sur tout le territoire de l'Ile, y compris dans des zones rurales au plus près des habitants. La Compagnie oeuvre depuis plusieurs années pour le pouvoir d'achat des habitants corses avec notamment une baisse du prix des carburants de 20 cts /l en 2022, puis un plafonnement des prix à 1,99 euro depuis 2023 et encore effectif à ce jour.
+
+  "Notre Compagnie peine à voir, dans ces conditions, en quoi elle aurait pu se livrer à une pratique anticoncurrentielle et va donc faire appel de cette décision devant la Cour d'appel de Paris. Face au caractère disproportionné de l'amende au regard des bénéfices de ses activités dans l'île, TotalEnergies a décidé d'engager une revue stratégique des conditions de la poursuite de ses activités marketing en Corse", conclut le géant de l'énergie.
+
+18/11/2025 09:32 Carburants en Corse : TotalEnergies conteste la sanction de l’Autorité de la concurrence |  AOF 
+  Carburants en Corse : TotalEnergies conteste la sanction de l’Autorité de la concurrence
+
+  TotalEnergies prend acte, tout en contestant le bien-fondé, de la décision rendue hier par l’Autorité de la concurrence, portant sur l’approvisionnement en produits pétroliers de la Corse, qui la condamne à une amende. TotalEnergies constate en effet que la position de l’Autorité n’est étayée, après quatre années d’instruction et de multiples auditions et visites sur site, par aucun élément tangible sur un éventuel effet anticoncurrentiel en Corse.
+
+  Elle est basée uniquement sur une clause contractuelle de 2016 organisant l'accès aux dépôts pétroliers de la Corse pour les actionnaires ayant investi dans ces dépôts, sachant qu'un schéma contractuel d'approvisionnement en carburants était par ailleurs disponible pour les distributeurs qui n'en étaient pas actionnaires.
+
+  TotalEnergies "regrette que l'Autorité n'ait pas constaté que cette clause n'a eu aucun effet préjudiciable ni pour le distributeur local en Corse à l'origine de la plainte ni pour les consommateurs de l'Ile". En effet, ce distributeur a pu continuer à s'approvisionner en carburants auprès de TotalEnergies ou des autres actionnaires des dépôts, en augmentant même significativement ses volumes d'approvisionnement, et à maintenir quasiment à l'identique son nombre de stations pendant toute la période en cause.
+
+  "Notre Compagnie peine à voir, dans ces conditions, en quoi elle aurait pu se livrer à une pratique anticoncurrentielle et va donc faire appel de cette décision devant la Cour d'appel de Paris", a déclaré le géant pétrolier.
+
+  Face au caractère disproportionné de l'amende au regard des bénéfices de ses activités dans l'île, TotalEnergies a décidé d'engager une revue stratégique des conditions de la poursuite de ses activités marketing en Corse.
+
+  Hier, l'Autorité de la concurrence a sanctionné TotalEnergies Marketing France, deux sociétés du groupe Rubis (Rubis Terminal et Rubis Energie) et EG Retail, actionnaires de la société Dépôts Pétroliers de la Corse ("DPLC") et actives dans les secteurs de l'approvisionnement, du stockage et de la distribution de carburants routiers en Corse, "pour avoir mis en œuvre une entente consistant, par un accord écrit, à réserver à leur seul bénéfice un droit de passage au sein des dépôts pétroliers corses". L'autorité administrative indépendante leur a infligé une amende de 187,5 millions d'euros.
+
+  Elle s'élève à 115,82 millions d'euros pour TotalEnergies Marketing France, à 64,67 millions d'euros pour le groupe Rubis et à 7 millions pour EG Retail.
 
 12/11/2025 09:52  TotalEnergies signe un contrat de vente d'électricité de 15 ans avec Google |  Boursier
   Pour fournir un volume total de 1,5 TWh d'électricité renouvelable certifiée
