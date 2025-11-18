@@ -26,6 +26,43 @@ recommandation historique
 05/11/2025 Euroland Corporate : En cohérence avec ces perspectives, nous fixons un objectif de cours à 10,2 € (+25%) et recommandons l’achat sur la base d’une valorisation par DCF et comparables.
 
 
+18/11/2025 10:42 OVHcloud annonce la mise en oeuvre du programme de rachat d'actions |  Boursier 
+  Un montant maximum de 10.000.000 euros sur une période allant du 18 novembre 2025 au 6 août 2026.
+  OVHcloud annonce la mise en oeuvre du programme de rachat d'actions
+  Conformément à l'autorisation de l'assemblée générale ordinaire du 6 février 2025 permettant la mise en oeuvre d'un programme de rachat d'actions, OVH Groupe annonce la signature ce jour avec un prestataire de service d'investissement (PSI) d'un mandat pour le rachat d'actions OVH Groupe jusqu'à un montant maximum de 10.000.000 euros sur une période allant du 18 novembre 2025 au 6 août 2026.
+
+  Cette opération a notamment pour objet l'acquisition de titres en vue de :
+    - leur livraison dans le cadre de plans d'actions gratuites venant à échéance ; et
+    - l'attribution ou de la cession d'actions aux salariés au titre de leur participation aux fruits de l'expansion de l'entreprise ou de la mise en oeuvre de tout plan d'épargne d'entreprise ou de groupe (ou plan assimilé) dans les conditions prévues par la loi, notamment les articles L. 3332-1 et suivants du Code du travail.
+
+
+
+18/11/2025 10:04 OVHcloud consolide son leadership européen avec une première région 3-AZ en Allemagne (OVHcloud 7.575 EUR +3.55 %) |  Boursier 
+  Un modèle stratégique pour assurer sécurité, résilience et performance
+  OVHcloud consolide son leadership européen avec une première région 3-AZ en Allemagne
+  À l'occasion du Sommet sur la souveraineté numérique européenne, OVHcloud, leader européen du cloud et acteur technologique mondial annonce renforcer sa présence en Allemagne avec le déploiement d'une région 3-AZ à Berlin.
+
+  Après la France et l'Italie, cette troisième région cloud européenne consolide l'ancrage d'OVHcloud sur le continent et illustre sa volonté d'offrir des niveaux toujours plus élevés de sécurité et de résilience et une haute disponibilité.
+
+  Un ancrage européen pour accompagner la transformation numérique de la société
+
+  Les organisations publiques européennes exigent autonomie stratégique et résilience, tandis que les entreprises recherchent sécurité et conformité, notamment dans des secteurs réglementés comme la finance, l'énergie ou la défense. OVHcloud y répond avec plus de 80 produits dans ses datacenters, dont une vingtaine est située en Europe.
+  Premier fournisseur européen à proposer des régions multizones de haute disponibilité (3-AZ) à Paris et Milan, le groupe annonce le déploiement prochain d'une troisième région 3-AZ à Berlin pour répondre aux enjeux de ses clients.
+
+  "Notre première région 3-AZ à Berlin renforcera la sécurité et la résilience des infrastructures numériques européennes. Avec cette implantation, nous confirmons notre ambition d'accompagner toute l'économie, quels que soient les secteurs ou les tailles d'organisations. La souveraineté numérique européenne ne se construit pas avec des champions isolés mais des acteurs systémiques capables d'opérer à l'échelle du continent" a déclaré Octave Klaba, fondateur et Président-Directeur Général d'OVHcloud.
+
+  3-AZ : un modèle stratégique pour assurer sécurité, résilience et performance
+
+  Le modèle 3-AZ est conçu pour les applications critiques nécessitant haute disponibilité et résilience. Une région comprend trois zones de disponibilité (Availability Zones) indépendantes, avec des datacenters situés à quelques dizaines de kilomètres les uns des autres, dotés d'alimentations électriques et de connexions réseau séparées. Elle garantit faible latence et sécurité maximale, et continuité des services, notamment pour les PRA dans des secteurs comme la finance, la santé ou les services publics.
+
+  Convaincu du rôle stratégique de ce modèle de déploiement pour la transformation numérique de l'économie, OVHcloud poursuivra le développement d'infrastructures cloud hautement redondées (régions 3-AZ) en Europe, avec l'ouverture de nouvelles régions dans d'autres métropoles européennes.
+
+ 
+17/11/2025 12:02OVHcloud franchit une étape décisive dans le cloud quantique européen |  Boursier 
+  Avec le lancement de sa Quantum Platform
+  OVHcloud franchit une étape décisive dans le cloud quantique européenCredits OVH
+  OVHcloud franchit une étape décisive dans le cloud quantique européen avec le lancement de sa Quantum Platform, première offre de Quantum-as-a-Service en Europe. En rendant accessibles dès aujourd'hui de puissantes QPU  dont la Pasqal Orion Beta  et en s'appuyant sur un écosystème d'émulateurs déjà unique en Europe, OVHcloud ouvre aux entreprises et organisations publiques la voie vers le calcul quantique de demain, souverain, performant et démocratisé.
+
 05/11/2025 07:56 OVHcloud : Une alternative | Euroland Corporate
   OVHcloud est un acteur majeur du cloud européen, reconnu pour ses infrastructures souveraines et sa maîtrise technologique. Fondé en 1999 et coté à Paris, le groupe propose des solutions IaaS et PaaS adaptées aux besoins des entreprises et administrations. Face à la domination américaine, OVHcloud mise sur la sécurité, la localisation des données et l’efficacité énergétique de ses centres pour consolider sa place dans un marché en forte expansion.
 
