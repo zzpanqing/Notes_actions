@@ -23,8 +23,32 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ec
 05/10/2021      05/2020            -0,02/--       472M/--                   --                   --
 
 recommandation historique
+25/11/2025 Morgan Stanley est repassé de 'souspondérer' à 'pondération de marché' en visant un cours de 9,05 euros. TP ICAP Midcap : à 'vendre', a ajuste son scénario en conséquence et a réduit sa cible à 6,5 euros.
 05/11/2025 Euroland Corporate : En cohérence avec ces perspectives, nous fixons un objectif de cours à 10,2 € (+25%) et recommandons l’achat sur la base d’une valorisation par DCF et comparables.
 
+
+25/11/2025 09:53 OVHcloud : encore des nuages ?  |  Boursier   
+  Question d'objectifs
+  OVHcloud : encore des nuages ?
+  OVH avance de 4,2% à 7,86 euros en début de séance à Paris. Dans une note dédiée au groupe nordiste, Morgan Stanley est repassé de 'souspondérer' à 'pondération de marché' en visant un cours de 9,05 euros. TP ICAP Midcap a expliqué de son côté "qu'entre flou réglementaire et lenteur des certifications", le cloud souverain européen peine à trouver son rythme. En France, la doctrine "cloud de confiance" impose des standards élevés, mais l'harmonisation européenne traîne, et le projet EUCS divise... Pendant que Bruxelles lance son "Cloud Sovereignty Framework" et Berlin initie son "Deutschland-Stack", OVH reste pénalisé par une offre moins riche et des moyens limités face aux hyperscalers qui renforcent leur capex. Et pour la 1ère fois, deux relais patinent simultanément. L'exercice 2026 s'annonce sous triple pression : ralentissement du Private Cloud, absence de signature souveraine avant FY27, et initiatives stratégiques qui ne porteront pas leurs fruits avant l'exercice 2027. Seule éclaircie : la dynamique du Public Cloud reste positive... mais sans signes d'accélération, trop marginale pour compenser les tensions sur le reste du business. Le broker, à 'vendre', a ajuste son scénario en conséquence et a réduit sa cible à 6,5 euros.
+
+  En chute libre fin octobre, le titre reste délaissé par Morgan Stanley qui est toujours à 'souspondérer' malgré un objectif de cours à 9,05 euros. En 2025 le chiffre d'affaires a atteint 1.084,6 millions d'euros, en hausse de 9,3% à données comparables. OVHcloud a atteint plusieurs étapes clés en 2025 avec un chiffre d'affaires réalisé auprès des Corporates qui dépasse les 200 millions d'euros, un chiffre d'affaires sur le Cloud Public (IaaS & PaaS) supérieur à 100 millions d'euros et enfin un chiffre d'affaires aux Etats Unis qui franchit la barre des 100 millions d'euros également...
+
+  OVHcloud revendique désormais près de 1.200 clients réalisant chacun plus de 100.000 euros d'Annual Recurring Revenue (ARR). En outre, OVHcloud est le leader du marché "SecNumCloud" avec 24 millions d'ARR en hausse de 63% sur un an. Enfin, cette année, les clients existants ont poursuivi leur croissance, comme l'illustre le taux de rétention net du chiffre d'affaires de 105% (à données comparables).
+
+  Amélioration de la rentabilité
+
+  Au cours de FY2025, le groupe a maintenu sa discipline opérationnelle, notamment par la maîtrise des dépenses générales et administratives. L'EBITDA ajusté a atteint 437,8 millions d'euros, soit une marge de 40,4 %, en hausse significative de 2,0 points comparé à FY2024. Cette progression significative de la marge d'EBITDA ajusté s'explique par une hausse limitée des coûts directs, ainsi qu'un fort levier opérationnel nourri par un effet volume. Le résultat opérationnel (EBIT) a atteint 69,4 millions d'euros, soit une marge de 6,4 %, en très forte hausse de 3,8 points comparé à FY2024.
+
+  Le résultat opérationnel intègre des dotations aux amortissements et dépréciations de (354,4) millions d'euros, en diminution en pourcentage de chiffre d'affaires comparé à FY2024. Le résultat net est positif sur FY2025 et a atteint 0,4 million d'euros. Il intègre notamment un résultat financier de (65,1) millions d'euros, en augmentation du fait des frais de mise en place de la nouvelle dette et de l'augmentation des taux d'intérêts et de la dette sur la période. Après l'intégration d'une charge d'impôt de 3,9 millions d'euros, OVHcloud a enregistré un résultat net de 0,4 million d'euros en 2025, en amélioration comparé à la perte nette de (10,3) millions d'euros en FY2024.
+
+  Amélioration significative de la génération de trésorerie
+
+  En lien avec la forte progression de la rentabilité du groupe, la capacité d'autofinancement s'est améliorée pour atteindre 421,9 millions d'euros sur FY2025. L'amélioration de la rentabilité et de l'intensité capitalistique ont par ailleurs entraîné une augmentation significative du retour sur les capitaux employés (ROCE). Le ROCE a progressé de 2,9 points entre FY2021 et FY2025. En optimisant encore davantage sa productivité et son intensité capitalistique, OVHcloud continuera de faire progresser son ROCE dans les exercices à venir. L'endettement financier net consolidé (hors dettes locatives) au 31 août 2025 est de 1.103 millions d'euros contre 667 millions d'euros au 31 août 2024.
+
+  A fin août 2025, l'intégralité de la dette du groupe était couverte et affiche un taux d'intérêt moyen de 4,3%, toutes marges et commissions comprises. Le levier d'endettement atteint 2,7x au 31 août 2025, en ligne avec la politique d'endettement du Groupe. La solide structure financière du Groupe permet à OVHcloud de mettre en oeuvre son plan de développement. Les besoins sont en effet largement couverts jusqu'en 2030, avec 242 millions d'euros de liquidités disponibles et une trajectoire de génération de Levered Free Cash-Flow dès FY2026.
+
+  Pour l'exercice 2026, OVHcloud a les objectifs suivants : Croissance organique du chiffre d'affaires comprise entre 5 et 7% ; Marge d'EBITDA ajusté supérieure à FY2025 ; Capex compris entre 30 et 32% du chiffre d'affaires ; Levered Free Cash-Flow positif.
 
 18/11/2025 10:42 OVHcloud annonce la mise en oeuvre du programme de rachat d'actions |  Boursier 
   Un montant maximum de 10.000.000 euros sur une période allant du 18 novembre 2025 au 6 août 2026.
