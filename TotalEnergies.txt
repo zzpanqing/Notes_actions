@@ -46,6 +46,29 @@ Recommendation:
   12/11/2025 09:52 Morgan Stanley 'surpondère' le dossier avec un objectif de cours ajusté à 62 euros.
 
 
+26/11/2025 09:15 Achat du Turbo infini Best CALL TOTAL ENERGIES UO22V à 1,1 EUR |  DayByDay
+  Achat du Turbo infini Best CALL TOTAL ENERGIES UO22V à 1,1 EUR
+  Analyse :
+    TOTAL ENERGIES a longtemps consolidé dans une zone entre 50 et 55 euros, traversée par la moyenne mobile à 100 jours. Peu à peu, la valeur s’est installée dans la partie haute de cette zone, au-dessus de 52,4 euros. À partir de cet appui, elle a pu sortir de la consolidation et elle consolide depuis au-dessus de 54,3 euros. Cela vient confirmer l’existence d’une polarité haussière, signe précurseur d’une tendance de court terme. L’objectif principal est un retour à 59,09 euros. La rupture du support majeur à 52,4 EUR invaliderait cette tendance.
+  Choix du produit Vontobel :
+    Le Turbo infini Best CALL TOTAL ENERGIES UO22V, ISIN DE000VH6MHJ3, est bien adapté à ce scénario technique. Il est sans échéance, sa barrière désactivante (K.O.) est à 51,1037 EUR, elle varie légèrement tous les jours. Son levier actuel est d’environ 10. On peut l’acheter à 1,1 EUR, avec une cible sur TOTAL ENERGIES à 59,09 EUR et une invalidation à 52,4 EUR.
+
+    Les analyses proposées sont suivies et nous publierons des mises à jour lorsque nous penserons qu'il faudra revendre le produit mis en avant. Le suivi devient caduc si le produit est désactivé. Les objectifs et seuils d'invalidation sont indiqués à titre informatif, ils évoluent en fonction des conditions de marché.
+
+  Vontobel
+  
+  Zoom
+  support1	54,3
+  support2	52,4
+  resist1	59,09
+  resist2	61,33
+  objectif	59,09
+  invalidation	52,4
+  opinionShortTerm	POSITIVE
+  opinionLongTerm	NEUTRE
+
+
+
 18/11/2025 09:32 TotalEnergies : va faire appel de la décision du gendarme de la concurrence sur l'approvisionnement en produits pétroliers de la Corse |  Boursier 
   En Corse, TotalEnergies approvisionne les habitants en carburants depuis 60 ans avec actuellement un réseau de 47 stations-services sur tout le territoire de l'Ile, y compris dans des zones rurales au plus près des habitants. La Compagnie oeuvre depuis plusieurs années pour le pouvoir d'achat des habitants corses avec notamment une baisse du prix des carburants de 20 cts /l en 2022, puis un plafonnement des prix à 1,99 euro depuis 2023 et encore effectif à ce jour.
 
