@@ -1,10 +1,60 @@
+Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ecart de BPA % | Ecart de Revenu % 
+06/03/2026        12/2025           --/--           --/6,95B                --              --
+16/10/2025        09/2025           --/--           6,87B/6,72B             --              +2,23%
+28/07/2025        06/2025            3/--           7,18B/7,14B             --              +0,56%
+23/04/2025        03/2025           --/--           6,85B/6,96B             --              -1,58%
+12/02/2025        12/2024           2,15/3,37       6,78B/6,61B             -36,2%          +2,57%
+18/10/2024        09/2024           --/--           6,44B/6,53B             --              -1,38%
+25/07/2024        06/2024           --/3,8          6,96B/7,02B             --              -0,85%
+18/04/2024        03/2024           --/--           6,34B/6,34B             --              0%
+14/02/2024        12/2023           2,09/2,09       6,25B/6,25B             0%              0%
+19/10/2023        09/2023           --/--           6,29B/6,29B             --              0%
+25/07/2023        06/2023           3,03/3,03       6,21B/6,21B             0%              0%
+20/04/2023        03/2023           --/--           6,15B/6,15B             --              0%
+23/02/2023        12/2022           4,83/2,7        6,11B/6,11B             +78,89%         0%
+21/10/2022        09/2022           --/--           6,39B/6,39B             --              0%
+29/07/2022        06/2022           2,64/3,25       6,39B/6,39B             -18,77%         0%
+22/04/2022        03/2022           --/--           5,61B/5,61B             --              0%
+11/03/2022        12/2021           1,35/2,12       5,58B/5,58B             -36,32%         0%
+29/10/2021        09/2021           --/--           4,46B/5,24B             --              -14,89%
+20/08/2021        06/2021           1,93/2,31       4,71B/4,59B             -16,45%         +2,61%
+06/05/2021        03/2021           --/--           4,06B/4,07B             --              -0,25%
+
 recommandons historique
+28/11/2025
+  JP Morgan qui a revalorisé le dossier de 300 à 345 euros en restant à 'surpondérer'. UBS avait auparavant rehaussé à 'acheter' sa recommandation sur la valeur en ciblant un cours de 355 euros. "Même si les lunettes intelligentes n'en sont encore qu'à leurs débuts, elles pourraient permettre à EssilorLuxottica de se positionner comme l'une des entreprises à la croissance la plus rapide parmi celles que nous couvrons dès 2026". 
 05/11/2025 
   Morgan Stanley qui vient de relever son objectif de cours à 365 euros. 
   RBC reste lui à 'surperformance' avec un objectif à 340 euros en indiquant qu'EssilorLuxottica a réalisé un trimestre "très solide". LBW est à 'conserver' avec un objectif ajusté à 305 euros, 
   Barclays est à 'surpondérer' en visant 345 euros. Jefferies ('achat')
   NP Paribas Exane est resté à 'surperformance' avec un objectif ajusté à 320 euros et 
   JP Morgan est toujours à 'surpondérer' avec une cible à 300 euros. 
+
+01/12/2025 19:12 EssilorLuxottica crée son 1er Comité consultatif scientifique  |  Boursier
+  Des sommités mondiales au Comité...
+  EssilorLuxottica crée son 1er Comité consultatif scientifique
+  EssilorLuxottica crée son Comité consultatif scientifique. Celui-ci rassemble des scientifiques et leaders d'opinion de renommée mondiale, dans les domaines connexes de la science, de la technologie et de la santé. Avec cette initiative, le Groupe "renforce son profond ancrage scientifique et sa mission d'aider patients et consommateurs à exprimer leur potentiel".
+
+  Le Comité consultatif scientifique apportera des conseils stratégiques et des analyses sur des opportunités à venir, contribuant au développement de sujets prioritaires par EssilorLuxottica. Véritable accélérateur de la transformation, le Comité consultatif collaborera avec un réseau mondial d'institutions scientifiques de premier plan. Le Groupe bénéficiera de son expertise sur les nouvelles perspectives qui s'ouvrent à lui dans le prolongement de ses axes de recherche fondamentaux, telles que l'ophtalmologie et l'oculomique, la physique et l'optique, l'audiologie, l'IA et l'éthique.
+
+  Le Comité consultatif scientifique d'EssilorLuxottica réunit 5 experts de renommée mondiale, reconnus pour leurs contributions à des découvertes importantes et faisant référence dans leur domaines respectifs :
+  - Pr. Alain Aspect, PhD, Lauréat du Prix Nobel de Physique 2022 et Prix Wolf 2010. Professeur à l'Institut d'Optique - Université Paris Saclay et à l'École Polytechnique ; Chercheur Émérite au CNRS.
+  - Pr. Alessio Figalli, PhD, Lauréat de la Médaille Fields 2018. Professeur titulaire et Directeur de l'Institut de Recherche en Mathématiques à l'ETH Zürich.
+  - Pr. Sharon Kujawa, PhD, Lauréat du Prix Callier 2017. Professeur d'oto-rhino-laryngologie - Chirurgie de la tête et du cou de la Harvard Medical School ; Chercheur principal aux laboratoires Eaton-Peabody - Massachusetts Eye and Ear, (Etats-Unis).
+  - Pr. José-Alain Sahel, Médecin ophtalmologiste, Lauréat du Prix Wolf 2024. Professeur Distingué et Président du Département d'Ophtalmologie de l'Ecole de Médecine de l'Université de Pittsburgh ; Professeur émérite à Sorbonne Université
+
+28/11/2025 10:49 EssilorLuxottica : oeil de lynx |  Boursier   
+  Voit plus loin
+  EssilorLuxottica : oeil de lynx
+  Dans le calme, EssilorLuxottica redonne 1,5% à 308 euros en milieu de matinée ce vendredi. L'actualité autour du numéro un mondial des verres correcteurs est marquée par une note de JP Morgan qui a revalorisé le dossier de 300 à 345 euros en restant à 'surpondérer'. UBS avait auparavant rehaussé à 'acheter' sa recommandation sur la valeur en ciblant un cours de 355 euros. "Même si les lunettes intelligentes n'en sont encore qu'à leurs débuts, elles pourraient permettre à EssilorLuxottica de se positionner comme l'une des entreprises à la croissance la plus rapide parmi celles que nous couvrons dès 2026", a indiqué la banque. L'annonce des comptes du T3 avaient convaincu le marché de revenir sur le dossier, toujours proche de ses sommets historiques. Le fabricant des lunettes Ray-Ban a en effet publié un chiffre d'affaires en hausse de 11,7% à taux de change constants au troisième trimestre, soulignant "une progression de l'ensemble des régions et des segments". Les revenus ont ainsi atteint 6,9 milliards d'euros, contre 6,75 MdsE attendus. "La croissance exponentielle des lunettes avec IA a boosté le chiffre d'affaires", selon le groupe, qui a précisé avoir réalisé le meilleur trimestre de son histoire...
+
+  Après plusieurs trimestres de discussions au sein de l'entreprise sur les initiatives de croissance envisagées, EssilorLuxottica a enfin vu son chiffre d'affaires décoller, avait expliqué Morgan Stanley. La banque avait qualifié la conférence de présentation des résultats de "très optimiste". RBC reste lui à 'surperformance' avec un objectif à 340 euros en indiquant qu'EssilorLuxottica a réalisé un trimestre "très solide", soulignant la croissance à taux de change constants : "La forte accélération sous-jacente au troisième trimestre est tirée par la gamme de produits de gestion de la myopie et de technologies portables récemment renouvelée, avec des performances plus élevées en Amérique du Nord (également soutenues par des hausses de prix à un chiffre) et dans la zone EMEA (deux chiffres dans les deux cas)".
+
+24/11/2025 12:06 EssilorLuxottica : pourrait prendre jusqu'à 10% de Giorgio Armani |  Boursier
+  Les bruits de couloir sont nombreux autour du groupe de mode....
+  EssilorLuxottica : pourrait prendre jusqu'à 10% de Giorgio ArmaniCredits EssilorLuxottica[FR:FR0000121667:0]EssilorLuxottica[:FR] serait prêt à acquérir une participation allant jusqu'à 10% dans Giorgio Armani. Selon les informations rapportées par 'Il Sole 24 Ore' ce week-end, le géant des lunettes et de verres optiques pourrait prendre 5% à 10% du groupe de mode sans jouer aucun rôle actif au sein d'Armani ni siéger à son conseil d'administration. Giorgio Armani est entré dans une période d'incertitudes après le récent décès du magnat italien de la mode, qui a fondé et développé l'entreprise pendant 50 ans.
+
+  Le dirigeant, décédé en septembre à l'âge de 91 ans, a demandé à ses héritiers de vendre une participation initiale de 15% de la société à l'un des trois acquéreurs privilégiés - LVMH, EssilorLuxottica ou L'Oréal - ou à une entreprise de même envergure, dans un délai de 18 mois. Si ses héritiers donnent leur accord, l'acquéreur aura la possibilité de porter sa participation dans Giorgio Armani à la majorité après trois ans, conformément au testament de son fondateur. Le groupe italien pourrait également être introduit en bourse.
 
 06/11/2025 19:04 EssilorLuxottica étend sa plateforme de solutions de gestion de la myopie | Boursier 
   EssilorLuxottica propose les verres Essilor Stellest 2.0, des **lunettes connectées** et une solution innovante pour adresser la pré-myopie...
