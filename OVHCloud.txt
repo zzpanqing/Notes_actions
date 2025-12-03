@@ -23,11 +23,11 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ec
 05/10/2021      05/2020            -0,02/--       472M/--                   --                   --
 
 recommandation historique
-25/11/2025 Morgan Stanley est repassé de 'souspondérer' à 'pondération de marché' en visant un cours de 9,05 euros. TP ICAP Midcap : à 'vendre', a ajuste son scénario en conséquence et a réduit sa cible à 6,5 euros.
+Le broker [TP ICAP Midcap ], à 'vendre', a ajuste son scénario en conséquence et a réduit sa cible à 6,5 euros.
 05/11/2025 Euroland Corporate : En cohérence avec ces perspectives, nous fixons un objectif de cours à 10,2 € (+25%) et recommandons l’achat sur la base d’une valorisation par DCF et comparables.
+10/2025 En chute libre fin octobre, le titre reste délaissé par Morgan Stanley qui est toujours à 'souspondérer' malgré un objectif de cours à 9,05 euros.
 
-
-25/11/2025 09:53 OVHcloud : encore des nuages ?  |  Boursier   
+25/11/2025 09:53 OVHcloud : encore des nuages ? Boursier 
   Question d'objectifs
   OVHcloud : encore des nuages ?
   OVH avance de 4,2% à 7,86 euros en début de séance à Paris. Dans une note dédiée au groupe nordiste, Morgan Stanley est repassé de 'souspondérer' à 'pondération de marché' en visant un cours de 9,05 euros. TP ICAP Midcap a expliqué de son côté "qu'entre flou réglementaire et lenteur des certifications", le cloud souverain européen peine à trouver son rythme. En France, la doctrine "cloud de confiance" impose des standards élevés, mais l'harmonisation européenne traîne, et le projet EUCS divise... Pendant que Bruxelles lance son "Cloud Sovereignty Framework" et Berlin initie son "Deutschland-Stack", OVH reste pénalisé par une offre moins riche et des moyens limités face aux hyperscalers qui renforcent leur capex. Et pour la 1ère fois, deux relais patinent simultanément. L'exercice 2026 s'annonce sous triple pression : ralentissement du Private Cloud, absence de signature souveraine avant FY27, et initiatives stratégiques qui ne porteront pas leurs fruits avant l'exercice 2027. Seule éclaircie : la dynamique du Public Cloud reste positive... mais sans signes d'accélération, trop marginale pour compenser les tensions sur le reste du business. Le broker, à 'vendre', a ajuste son scénario en conséquence et a réduit sa cible à 6,5 euros.
