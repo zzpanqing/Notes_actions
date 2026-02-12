@@ -1,5 +1,6 @@
 Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ecart de BPA % | Ecart de Revenu % 
-06/03/2026        12/2025           --/--           --/6,95B                --              --
+22/04/2026        03/2026           --/--              --/7,46B             --              --	
+11/02/2026        12/2025           --/--            7.6B/7.13B             --              +6,59%
 16/10/2025        09/2025           --/--           6,87B/6,72B             --              +2,23%
 28/07/2025        06/2025            3/--           7,18B/7,14B             --              +0,56%
 23/04/2025        03/2025           --/--           6,85B/6,96B             --              -1,58%
@@ -20,7 +21,15 @@ Date de sortie | Fin de la période | BPA/Prév. | Chiffre d'affaires/Prév.| Ec
 20/08/2021        06/2021           1,93/2,31       4,71B/4,59B             -16,45%         +2,61%
 06/05/2021        03/2021           --/--           4,06B/4,07B             --              -0,25%
 
-recommandons historique
+# recommandons historique
+12/02/2026 
+  [trop cher]
+  "Le niveau de valorisation offre par ailleurs un soutien limité, le titre se négociant déjà sur des multiples exigeants, avec un PER estimé à 32x pour 2026, un ratio Valeur d'entreprise/Ebit de 26x et un indicateur Valeur/d'entreprise/C.A. de 4,3x, tous supérieurs à leurs moyennes historiques sur dix ans", fait remarquer le broker canadien.
+
+  D'autres professionnels se montrent encore plus incisifs. "C'est le bon moment pour prendre ses profits", conseillent laconiquement ce matin les analystes d'AlphaValue, qui affichent une recommandation **"alléger"** sur le titre.
+
+  Citi ('acheter') affirme que les ventes du 4e trimestre sont "nettement supérieures" aux attentes concernant les objets connectés. Ces résultats constituent "une nouvelle preuve de la dynamique du marché des lunettes intelligentes". La trajectoire des marges au second semestre et à venir "devrait dissiper les craintes récentes". Bernstein ('performance de marché') indique pour sa part que la forte croissance organique du 4e trimestre a "facilement" dépassé les attentes du consensus. L'impact dilutif sur le résultat d'exploitation "s'est également fait sentir" et est "légèrement plus important que prévu".
+  
 28/11/2025
   JP Morgan qui a revalorisé le dossier de 300 à 345 euros en restant à 'surpondérer'. UBS avait auparavant rehaussé à 'acheter' sa recommandation sur la valeur en ciblant un cours de 355 euros. "Même si les lunettes intelligentes n'en sont encore qu'à leurs débuts, elles pourraient permettre à EssilorLuxottica de se positionner comme l'une des entreprises à la croissance la plus rapide parmi celles que nous couvrons dès 2026". 
 05/11/2025 
@@ -29,7 +38,46 @@ recommandons historique
   Barclays est à 'surpondérer' en visant 345 euros. Jefferies ('achat')
   NP Paribas Exane est resté à 'surperformance' avec un objectif ajusté à 320 euros et 
   JP Morgan est toujours à 'surpondérer' avec une cible à 300 euros. 
+  
+  12/02/2026 09:57 Boursier | EssilorLuxottica : la croissance accélère...
+  Consolidation. En Bourse de Paris, le titre capitalise 123 Milliards d'Euros. Alors que le résultat net 2025 est de 3,1 MdsE, le ratio cours/bénéfice est de 39. Pour ce qui est du dividende de 4 Euros, il offre un rendement limité de 1,5%... Même tout se déroule pour le mieux chez EssilorLuxottica, il ne fait aucun doute que les multiples sont élevés. Il est difficile de recommander l'action à l'achat dans ces conditions. **On attendra pour cela une consolidation autour des 250 Euros, une zone qui permettrait d'envisager un achat à un prix que l'on qualifiera de décent.**
 
+  On attend un retour sur les 250 Euros pour acheter le titre EssilorLuxottica...
+12/02/2026 11h49 La valeur du jour à Paris EssilorLuxottica tente un retour vers ses sommets après un 4ème trimestre "impressionnant"
+  EssilorLuxottica (+2,59%, à 257,30 euros) se hisse parmi les plus fortes hausses de l'indice CAC 40 jeudi en milieu de matinée, soutenue par l'annonce d'une croissance "record" au 4ème trimestre due au succès fracassant de ses lunettes alimentées par l'IA, développées en partenariat avec Meta.
+
+  Aux alentours de 11h45, le fabricant des célèbres verres Varilux voit cependant sa progression ralentir autour de 2,6%, après avoir grimpé de 10% au moment de l'ouverture, ce qui ne l'empêche pas de revenir en direction, à près de 280 euros, des sommets historiques atteints au-delà de 320 euros en novembre dernier.
+
+  Le spécialiste de l'optique ophtalmique a annoncé hier soir dans un communiqué avoir bouclé une année "historique" en 2025 en générant pour la première fois depuis son histoire une croissance à deux chiffres, à taux de change constant, de son chiffre d'affaires, dans un environnement macroéconomique et géopolitique incertain marqué par l'impact des droits de douane américains.
+
+  ** Son chiffre d'affaires a ainsi totalisé 28,49 milliards d'euros l'an dernier, soit une hausse de 11,2%, **à taux de change constants, avec un **cash-flow libre record qui s'est établi à 2,8 milliards d'euros** sur l'exercice, soit 4**00 millions d'euros de plus qu'en 2024.**
+
+  Sur le seul **4ème trimestre** [2025], les **ventes** du lunetier se sont élevées à **7,60 milliards** d'euros soit un bond de **18,4%** à changes constants **par rapport à la même période de l'année précédente**, alors que le consensus n'anticipait que 11,7% de croissance.
+
+  Sans surprise, le groupe franco-italien attribue ces bons chiffres à son succès retentissant sur le marché des "wearables" (appareils connectés) et tout particulièrement à la "révolution" des lunettes avec IA, qui ont connu une forte dynamique ces derniers mois grâce au succès continu des Ray-Ban Meta, soutenu par le lancement de la Gen 2, et au bon démarrage d'Oakley Meta, avec les modèles HSTN et Vanguard.
+
+  "Ses ventes de "smart glasses" explosent, elles se sont littéralement écoulées à plus de plus de sept millions d'unités rien qu'en 2025", soulignent ce matin les analystes de Bernstein.
+
+  Mais ce virage stratégique se fait au détriment des marges bénéficiaires, relèvent les professionnels, la montée en puissance de cette nouvelle catégorie nécessitant logiquement une hausse significative des investissements afin d'accroître les capacités de production.
+
+  **Conséquence immédiate, la marge opérationnelle ajustée s'est tassée à 16% en 2025, soit 70 points de base en dessous de celle de 2024** à taux de change constants, une contraction bien plus marquée que ce qu'attendaient les analystes.
+
+  Cet impact dilutif se retrouve également au niveau de ses nouvelles perspectives communiquées sur le long terme.
+
+ ** L'entreprise a déclaré hier soir qu'elle envisageait, en moyenne, une "solide" croissance de son chiffre d'affaires durant les cinq prochaines années** à taux de change constants, accompagnée d'une croissance "globalement alignée" de son résultat opérationnel ajusté.
+
+  "Cela signifie que **la croissance du chiffre d'affaires va sans doute se situer désormais bien au-dessus des 5%** qui était visés précédemment et qu'elle va probablement dépasser celle du résultat d'exploitation en 2026, comme en 2025", réagit un analyste parisien. "On peut quand même s'attendre à ce qu'un rattrapage s'opère par la suite", poursuit-il.
+
+  A la vue de cette nouvelle trajectoire, **bon nombre d'analystes indiquent ce matin avoir revu à la baisse leurs prévisions de résultats pour 2026 et 2027.**
+  Alors que **le consensus anticipe pour 2026 une croissance du chiffre d'affaires de l'ordre de 12%** à taux de changes constants, la marge opérationnelle est, elle, attendue à un niveau relativement stable cette année par rapport à 2025.
+
+  Dans l'immédiat, les investisseurs semblent toutefois préférer se focaliser sur la solide dynamique de croissance d'EssilorLuxottica, portée par l'essor de ces innovations susceptibles de lui ouvrir d'importantes perspectives de développement sur des marchés encore largement inexploités.
+
+  "C'est vrai que les opportunités commerciales sur le long terme sont séduisantes, mais la visibilité concernant l'impact de cette nouvelle impulsion sur les marges demeure plus incertaine", tempèrent ce matin les équipes de RBC.
+
+  "Le niveau de valorisation offre par ailleurs un soutien limité, le titre se négociant déjà sur des multiples exigeants, avec un PER estimé à 32x pour 2026, un ratio Valeur d'entreprise/Ebit de 26x et un indicateur Valeur/d'entreprise/C.A. de 4,3x, tous supérieurs à leurs moyennes historiques sur dix ans", fait remarquer le broker canadien.
+
+  D'autres professionnels se montrent encore plus incisifs. "C'est le bon moment pour prendre ses profits", conseillent laconiquement ce matin les analystes d'AlphaValue, qui affichent une recommandation "alléger" sur le titre.
 01/12/2025 19:12 EssilorLuxottica crée son 1er Comité consultatif scientifique  |  Boursier
   Des sommités mondiales au Comité...
   EssilorLuxottica crée son 1er Comité consultatif scientifique
@@ -42,6 +90,7 @@ recommandons historique
   - Pr. Alessio Figalli, PhD, Lauréat de la Médaille Fields 2018. Professeur titulaire et Directeur de l'Institut de Recherche en Mathématiques à l'ETH Zürich.
   - Pr. Sharon Kujawa, PhD, Lauréat du Prix Callier 2017. Professeur d'oto-rhino-laryngologie - Chirurgie de la tête et du cou de la Harvard Medical School ; Chercheur principal aux laboratoires Eaton-Peabody - Massachusetts Eye and Ear, (Etats-Unis).
   - Pr. José-Alain Sahel, Médecin ophtalmologiste, Lauréat du Prix Wolf 2024. Professeur Distingué et Président du Département d'Ophtalmologie de l'Ecole de Médecine de l'Université de Pittsburgh ; Professeur émérite à Sorbonne Université
+
 
 28/11/2025 10:49 EssilorLuxottica : oeil de lynx |  Boursier   
   Voit plus loin
